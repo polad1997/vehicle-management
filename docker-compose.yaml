@@ -56,7 +56,6 @@ services:
     networks:
       - main-network
 
-#first, need to create network -> docker network create mongonetwork
 networks:
   main-network:
     external:
