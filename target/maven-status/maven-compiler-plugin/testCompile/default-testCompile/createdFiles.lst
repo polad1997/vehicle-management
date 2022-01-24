@@ -1,0 +1,4 @@
+com\iomoto\vehiclesmanager\service\VehicleServiceImplTest.class
+com\iomoto\vehiclesmanager\util\JsonUtil.class
+com\iomoto\vehiclesmanager\controller\VehicleControllerTest.class
+com\iomoto\vehiclesmanager\VehiclesManagerApplicationTests.class

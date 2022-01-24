@@ -1,0 +1,15 @@
+C:\Users\sg0312832\projects\vehicles-manager\src\main\java\com\iomoto\vehiclesmanager\payload\response\VehicleResponse.java
+C:\Users\sg0312832\projects\vehicles-manager\src\main\java\com\iomoto\vehiclesmanager\payload\request\PropertiesDto.java
+C:\Users\sg0312832\projects\vehicles-manager\src\main\java\com\iomoto\vehiclesmanager\payload\request\CreateVehicleRequest.java
+C:\Users\sg0312832\projects\vehicles-manager\src\main\java\com\iomoto\vehiclesmanager\payload\request\UpdateVehicleRequest.java
+C:\Users\sg0312832\projects\vehicles-manager\src\main\java\com\iomoto\vehiclesmanager\exception\ResourceNotFoundAdvice.java
+C:\Users\sg0312832\projects\vehicles-manager\src\main\java\com\iomoto\vehiclesmanager\repository\VehicleRepository.java
+C:\Users\sg0312832\projects\vehicles-manager\src\main\java\com\iomoto\vehiclesmanager\configuration\CorsConfig.java
+C:\Users\sg0312832\projects\vehicles-manager\src\main\java\com\iomoto\vehiclesmanager\mapper\DocumentDtoMapper.java
+C:\Users\sg0312832\projects\vehicles-manager\src\main\java\com\iomoto\vehiclesmanager\model\Properties.java
+C:\Users\sg0312832\projects\vehicles-manager\src\main\java\com\iomoto\vehiclesmanager\service\VehicleServiceImpl.java
+C:\Users\sg0312832\projects\vehicles-manager\src\main\java\com\iomoto\vehiclesmanager\VehiclesManagerApplication.java
+C:\Users\sg0312832\projects\vehicles-manager\src\main\java\com\iomoto\vehiclesmanager\controller\VehicleController.java
+C:\Users\sg0312832\projects\vehicles-manager\src\main\java\com\iomoto\vehiclesmanager\model\Vehicle.java
+C:\Users\sg0312832\projects\vehicles-manager\src\main\java\com\iomoto\vehiclesmanager\exception\ResourceNotFoundException.java
+C:\Users\sg0312832\projects\vehicles-manager\src\main\java\com\iomoto\vehiclesmanager\service\VehicleService.java

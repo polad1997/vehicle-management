@@ -1,0 +1,14 @@
+com\iomoto\vehiclesmanager\model\Vehicle.class
+com\iomoto\vehiclesmanager\payload\request\PropertiesDto.class
+com\iomoto\vehiclesmanager\VehiclesManagerApplication.class
+com\iomoto\vehiclesmanager\payload\request\UpdateVehicleRequest.class
+com\iomoto\vehiclesmanager\controller\VehicleController.class
+com\iomoto\vehiclesmanager\mapper\DocumentDtoMapper.class
+com\iomoto\vehiclesmanager\model\Properties.class
+com\iomoto\vehiclesmanager\payload\request\CreateVehicleRequest.class
+com\iomoto\vehiclesmanager\service\VehicleServiceImpl.class
+com\iomoto\vehiclesmanager\payload\response\VehicleResponse.class
+com\iomoto\vehiclesmanager\service\VehicleService.class
+com\iomoto\vehiclesmanager\repository\VehicleRepository.class
+com\iomoto\vehiclesmanager\exception\ResourceNotFoundAdvice.class
+com\iomoto\vehiclesmanager\exception\ResourceNotFoundException.class
